@@ -16,9 +16,9 @@
     ],
     "require": {
         "php": ">=7.1.3",
-        "jasig/phpcas": "1.6.0",
-	"symfony/security-bundle": "~4.0",
-	"symfony/framework-bundle": "~4.0,>=4.2"
+        "apereo/phpcas": "1.6.0",
+	    "symfony/security-bundle": "~4.0",
+	    "symfony/framework-bundle": "~4.0,>=4.2"
     },
     "autoload": {
         "psr-4": { "L3\\Bundle\\CasBundle\\": "" }
